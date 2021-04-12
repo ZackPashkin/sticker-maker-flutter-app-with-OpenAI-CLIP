@@ -77,7 +77,7 @@ class _ExampleHomePageState extends State<ExampleHomePage>
         title: TextField(
           controller: myController,
           decoration: InputDecoration(
-              hintText: 'An image of a blushing anime girl in a dress',
+              hintText: 'An image of a smiling anime girl in a dress',
               prefixIcon: Icon(Icons.search)
           ),
         ),
